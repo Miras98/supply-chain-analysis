@@ -14,7 +14,17 @@ The dataset consists of four key tables:
 **`Internal_Mfg_Resource_Estimate`** : Contains information about the production capacity such as Unit Capacity ,
 Machine Model, Machine Fixed Cost, Existing Capacity.
 
-**`Supplier Yield`** : Includes supplier, and Yield Rate which is percentage of units that pass the quality test.  
+**`Supplier Yield`** : Includes supplier, and Yield Rate which is percentage of units that pass the quality test. 
+
+## 📈 Dashboard Preview
+
+![Cost_preview](https://github.com/user-attachments/assets/680f0770-cfaa-43e8-94c8-52441147db94)
+
+### Cost Analysis Dashboard  
+Provides insights into total cost, cost per unit, and supplier pricing trends  
+
+### Volume Scenario Dashboard  
+Analyzes volume-based cost fluctuations and investment needs  
 
 ## Key Metrics & Calculations  
 **Extended Cost** – Unit cost multiplied by Volume  
@@ -23,17 +33,6 @@ Machine Model, Machine Fixed Cost, Existing Capacity.
 **Additional Capacity Required** – Determines if internal production can meet demand  
 **Additional Investment Required** – Estimates capital needed for in-house production  
 **Cost Avoidance** – Measures the difference between **Make vs Buy** scenarios  
-
-## 📈 Dashboard Preview
-
-![Cost_preview](https://github.com/user-attachments/assets/680f0770-cfaa-43e8-94c8-52441147db94)
-
-
-### Cost Analysis Dashboard  
-Provides insights into total cost, cost per unit, and supplier pricing trends  
-
-### Volume Scenario Dashboard  
-Analyzes volume-based cost fluctuations and investment needs  
 
 ## Business Insights & Strategic Recommendations  
 
